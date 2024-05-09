@@ -4,7 +4,6 @@ import TodoList from '../components/TodoList'
 import { useEffect, useState } from 'react'
 import axios from 'axios';
 import { SweetAlertIcons, SweetPosition, notify } from '../helper/notify';
-import bgImage from '../../public/todoBG.png'
 
 
 //^bunu globalde types dosyasında tanımladığımız için burada yoruma aldık
